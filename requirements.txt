@@ -1,5 +1,5 @@
 Flask==2.3.3
-tensorflow==2.20.0
+tensorflow==2.15.0
 opencv-python>=4.8.0
 Pillow>=10.4.0
 requests==2.31.0
@@ -8,6 +8,7 @@ matplotlib==3.7.2
 seaborn==0.12.2
 
 gunicorn==21.2.0
+
 
 
 
